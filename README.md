@@ -1,10 +1,10 @@
 # |V_ub| Determination from the Semileptonic B -> pi l nu Decays
 
-This project was carried out during REYES 2023 under the guidance of Dr. Sergi Gonzàlez-Solís.
+This project was carried out during [**REYES 2023**]([https://example.com](https://physics.berkeley.edu/visiting-students/reyes-remote-experience-young-engineers-and-scientists)) under the guidance of Dr. Sergi Gonzàlez-Solís.
 
 ## Objective
 
-To extract the CKM matrix element |V_ub| using semileptonic B0 -> pi- l+ nu decays by applying theoretical modeling and chi-square fitting to experimental data.
+To extract the CKM matrix element **|V_ub|** using semileptonic B0 -> pi- l+ nu decays by applying theoretical modeling and chi-square fitting to experimental data.
 
 ## Prerequisites
 
@@ -16,7 +16,7 @@ pip install numpy pandas matplotlib scipy
 
 ## Introduction
 
-The B meson is a bound state consisting of a bottom (b) quark and either an up or down quark. It is an unstable, heavy meson that decays via the weak interaction, making it a valuable probe for studying flavor physics and the elements of the CKM matrix.
+The **B meson** is a bound state consisting of a bottom (b) quark and either an up or down quark. It is an unstable, heavy meson that decays via the weak interaction, making it a valuable probe for studying flavor physics and the elements of the CKM matrix.
 
 Our interest lies in charged current weak interactions, which have their flavor structure encoded in the CKM matrix. The element V\_ub connects an up-type quark to a bottom-type quark. However, the Standard Model does not predict specific values for these elements—they must be determined experimentally. Of all the CKM parameters, |V\_ub| is one of the least precisely known, and its accurate extraction helps in testing the consistency of the Standard Model.
 
@@ -32,11 +32,11 @@ The full analysis is implemented in the Jupyter notebook `vub_determination_reye
 
 ## Conclusion
 
-Model 2 (multi-pole) provides a better fit to the experimental data compared to Model 1. The project demonstrates a methodology for extracting flavor physics parameters from decay data using theoretical modeling and numerical optimization.
+**Model 2** (multi-pole) provides a better fit to the experimental data compared to Model 1. The project demonstrates a methodology for extracting flavor physics parameters from decay data using theoretical modeling and numerical optimization.
 
 ## Contact
 
-For queries, feel free to reach out:
-Email: [khatri.anisha20@gmail.com](mailto:khatri.anisha20@gmail.com)
+For queries, feel free to reach out: <br>
+Email: [khatri.anisha20@gmail.com](mailto:khatri.anisha20@gmail.com) <br>
 LinkedIn: [https://linkedin.com/in/AnishaKhatri](https://linkedin.com/in/AnishaKhatri)
 
