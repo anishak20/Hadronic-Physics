@@ -11,7 +11,7 @@ To extract the CKM matrix element |V_ub| using semileptonic B0 -> pi- l+ nu deca
 To run this project locally, ensure you have the following Python libraries installed:
 
 ```bash
-pip install numpy pandas matplotlib scipy astropy
+pip install numpy pandas matplotlib scipy 
 ```
 
 ## Introduction
