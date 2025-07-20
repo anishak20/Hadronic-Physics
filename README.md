@@ -1,6 +1,6 @@
 # |V_ub| Determination from the Semileptonic B -> pi l nu Decays
 
-This project was carried out during [**REYES 2023**]([https://example.com](https://physics.berkeley.edu/visiting-students/reyes-remote-experience-young-engineers-and-scientists)) under the guidance of Dr. Sergi Gonzàlez-Solís.
+This project was carried out during [**REYES 2023**](https://physics.berkeley.edu/visiting-students/reyes-remote-experience-young-engineers-and-scientists) under the guidance of Dr. Sergi Gonzàlez-Solís.
 
 ## Objective
 
