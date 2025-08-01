@@ -4,7 +4,7 @@ This project was carried out during [**REYES 2023**](https://physics.berkeley.ed
 
 ## Objective
 
-To extract the CKM matrix element **|V_ub|** using semileptonic B0 -> pi- l+ nu decays.
+To perform precise measurement of the CKM matrix element **|V_ub|** using semileptonic B0 -> pi- l+ nu decays.
 
 ## Prerequisites
 
