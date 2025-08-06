@@ -1,4 +1,4 @@
-# |V_ub| Determination from the Semileptonic B -> pi l nu Decays
+# Precision Measurements of CKM Matrix elements (Flavor Physics)
 
 This project was carried out following the [**REYES 2023**](https://physics.berkeley.edu/visiting-students/reyes-remote-experience-young-engineers-and-scientists), during the period of August to November, under the guidance of **Dr. Sergi Gonzàlez-Solís**.
 
