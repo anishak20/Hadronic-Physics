@@ -16,7 +16,7 @@ pip install numpy pandas matplotlib scipy
 
 ## Project Workflow
 
-The complete analysis is implemented in the Jupyter notebook `CKM(1).ipynb`. 
+The complete analysis is implemented in the Jupyter notebook `CKM (1)_revised`. 
 
 ## Contact
 
