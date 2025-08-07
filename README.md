@@ -27,7 +27,7 @@ The full analysis is implemented in the Jupyter notebook `vub_determination_reye
 1. Model the hadronic form factor f\_+(q^2) using two approaches: a single pole model and a multi-pole model.
 2. Define the theoretical branching ratio expression as a function of q^2 and |V\_ub|.
 3. Import experimental data of q^2 vs dB/dq^2 for fitting.
-4. Fit the data using a nonlinear least squares chi-square method to extract the best-fit value of |V\_ub|.
+4. Fit the data using chi-square method to extract the best-fit value of |V\_ub|.
 5. Compare both models and determine which provides the better agreement with the data.
 
 ## Conclusion
